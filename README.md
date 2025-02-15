@@ -2,7 +2,7 @@
 
 ---
 
-Overview
+## Overview
 
 SparkPool is a gas fee sponsorship pool that enables dApps on Sui to subsidize gas fees for new users. It is funded by Liquidity Providers (LPs) who stake SUI, earning premium-based fees in return. The protocol ensures sustainability through a fee-sharing model and is designed for cross-chain expansion to networks like Solana in the future.
 
